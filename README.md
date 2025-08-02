@@ -11,7 +11,7 @@ Este proyecto es una API RESTful construida con **Express** y **TypeScript**, qu
 - pg (node-postgres)
 
 ## 📁 Estructura General del Proyecto
-
+```
 └── 📁src
     └── 📁common
         └── 📁config
@@ -46,9 +46,7 @@ Este proyecto es una API RESTful construida con **Express** y **TypeScript**, qu
                 └── 📁routes
                     ├── user.routes.ts
     └── index.ts
-
-
-
+```
 ## 📦 Instalación
 
 1. Clona este repositorio:
